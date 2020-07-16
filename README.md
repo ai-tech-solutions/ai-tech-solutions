@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Conversational Bots...
+- 🔭 also reviving my ocr project ...
+
 <!--
 **ai-tech-solutions/ai-tech-solutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
